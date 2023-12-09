@@ -45,7 +45,7 @@ Specifies the output values that will be displayed after applying the configurat
 1. Clone the repository:
 
     ```bash
-    git clone https://github.com/your/repository.git
+    git clone https://github.com/vamsigundla/AWS-Setup-using-Terraform1.git
     ```
 
 2. Navigate to the Terraform configuration directory:
